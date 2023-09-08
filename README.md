@@ -1,4 +1,3 @@
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +16,3 @@
 ### Victor Barra
 
 ### Linkedin: TBA
-
-```
