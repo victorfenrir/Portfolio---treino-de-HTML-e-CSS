@@ -103,7 +103,7 @@ body{
     font-weight: 600;
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
     background-color: var(--cor-hover);
     padding: 3%;
 }
@@ -114,7 +114,21 @@ body{
     padding: 24px;
     background-color: var(--cor-terciaria);
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+    line-height: 36px;
+}
+
+.rodape__sobre{
+    position: absolute;
+    width: 96.45%;
+    bottom: 0;
+    color: var(--cor-primaria);
+    text-align: center;
+    padding: 24px;
+    background-color: var(--cor-terciaria);
+    font-family: var(--fonte-secundaria);
+    font-size: 1.25rem;
     font-weight: 400;
     line-height: 36px;
 }
@@ -135,6 +149,18 @@ body{
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .apresentacao__conteudo__titulo{
+        text-align: center;
+    }
+
+    .apresentacao__conteudo__texto{
+        text-align: center;
+    }
+
+    .apresentacao__conteudo__foto{
+        width: 100%;
     }
 }
 
